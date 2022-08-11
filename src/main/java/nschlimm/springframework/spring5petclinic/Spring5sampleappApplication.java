@@ -1,4 +1,4 @@
-package nschlimm.springframework.spring5sampleapp;
+package nschlimm.springframework.spring5petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
