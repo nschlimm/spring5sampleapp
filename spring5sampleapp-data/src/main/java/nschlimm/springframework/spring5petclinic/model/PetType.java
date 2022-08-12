@@ -1,6 +1,8 @@
 package nschlimm.springframework.spring5petclinic.model;
 
-public class PetType {
+import nschlimm.springframework.spring5petclinic.service.BaseEntity;
+
+public class PetType extends BaseEntity {
     
     private String name;
 

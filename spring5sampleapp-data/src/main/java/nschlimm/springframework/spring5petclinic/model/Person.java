@@ -1,6 +1,8 @@
 package nschlimm.springframework.spring5petclinic.model;
 
-public class Person {
+import nschlimm.springframework.spring5petclinic.service.BaseEntity;
+
+public class Person extends BaseEntity {
 
     private String firstName;
     private String lastName;

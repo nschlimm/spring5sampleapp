@@ -2,7 +2,9 @@ package nschlimm.springframework.spring5petclinic.model;
 
 import java.time.LocalDate;
 
-public class Pet {
+import nschlimm.springframework.spring5petclinic.service.BaseEntity;
+
+public class Pet extends BaseEntity {
 
     private PetType petType;
     private Owner owner;
