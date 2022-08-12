@@ -3,7 +3,7 @@
     <parent>
         <groupId>nschlimm.springframework</groupId>
         <artifactId>spring5sampleapp</artifactId>
-        <version>0.0.2</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <artifactId>spring5sampleapp-web</artifactId>
     <dependencies>
@@ -22,7 +22,7 @@
         <dependency>
             <groupId>nschlimm.springframework</groupId>
             <artifactId>spring5sampleapp-data</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
